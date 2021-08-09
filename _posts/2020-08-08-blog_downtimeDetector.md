@@ -9,7 +9,7 @@ tags: [python, downtime, telegram, regex]
 ## What it is ...
 
 Earlier on I wrote about how I wanted to get high severity notifications about  a particular critical system on my Telegram channel. That was pushed by desire of not having work emails enabled on my mobile device, but also not miss on critical system alerts, that are usually shared via mail by the system. 
-You can read about it under the [Python - emailBot](/posts/blog_emailbot.md) section and the code [here](https://github.com/w33vils/emailBot).
+You can read about it under the Python - emailBot section and the code [here](https://github.com/w33vils/emailBot).
 
 A flaw in the project is that, in the event the entire system goes offline, it would not send any alerts that I would then capture from the emails. I needed a different way to monitor the host itself, independently from itself. Sure, there are many (and perhaps more efficient) ways to achieve this, but I wanted to play around and do it via a customized script. A way to learn the language too.
 
