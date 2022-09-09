@@ -13,7 +13,7 @@ THM |  &nbsp; | &nbsp; | &nbsp; | &nbsp; |  &nbsp; HTB
 <script src="https://tryhackme.com/badge/197653"></script>  | | | | | <script src="https://www.hackthebox.eu/badge/398112"></script>
 
 ## Skills
-- Penetration testing (OSCP Certified)
+- Penetration testing (OSCP, CRTP Certified)
 - Cloud Security (AWS Security specialist certified)
 - Python scripting
 - Web application security testing.
@@ -38,6 +38,8 @@ THM |  &nbsp; | &nbsp; | &nbsp; | &nbsp; |  &nbsp; HTB
 ## Certifications
 
 - Offensive Security Certified Professional (OSCP)
+
+- Certified Red Team Professional (CRTP)
 
 - Certified Ethical Hacker (CEH)
 
