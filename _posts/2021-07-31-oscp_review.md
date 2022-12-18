@@ -4,7 +4,7 @@ author: w33vils
 date: 2021-07-31 08:00:00 +0300
 categories: [Blog, Reviews]
 tags: [OSCP]
-pin : true
+
 ---
 
 I recently passed the Offensive Security Certified Professional (OSCP) exam, and as is a rite of passage, I will shamelessly add to the already existing, hundreds of reviews!
@@ -105,12 +105,11 @@ I received my passing email about 48 hours later.
 
 - Putting too much trust on tools. Try different tools, different wordlists, don't rely on one. Where possible try manual methods too.
 
-- 'Try Harder', 'enumerate more', it is about time these terms were retired. Sometimes you don't know what you don't know, and "trying harder" isn't the solution.
+- 'Try Harder', 'enumerate more', it's about time these terms were retired. Sometimes you don't know what you don't know, and "trying harder" isn't the solution.
 
 ## Advice
 
 You got this.
 
-## proof
 
-![ss](/assets/img/images/oscp.jpg)
+![](/assets/img/images/cat.gif)

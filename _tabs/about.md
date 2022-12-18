@@ -13,7 +13,7 @@ THM |  &nbsp; | &nbsp; | &nbsp; | &nbsp; |  &nbsp; HTB
 <script src="https://tryhackme.com/badge/197653"></script>  | | | | | <script src="https://www.hackthebox.eu/badge/398112"></script>
 
 ## Skills
-- Penetration testing (OSCP, CRTP Certified)
+- Penetration testing (OSEP, OSCP, CRTP Certified)
 - Cloud Security (AWS Security specialist certified)
 - Python scripting
 - Web application security testing.
@@ -36,6 +36,8 @@ THM |  &nbsp; | &nbsp; | &nbsp; | &nbsp; |  &nbsp; HTB
 - Rotary Club of Twaweza member.
 
 ## Certifications
+
+- Offensive Security Experienced Professional (OSEP)
 
 - Offensive Security Certified Professional (OSCP)
 
